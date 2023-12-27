@@ -1,3 +1,6 @@
+# Bazel codegen-d directories
+bazel-*
+
 # Prerequisites
 *.d
 
